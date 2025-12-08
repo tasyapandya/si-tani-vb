@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Farmer App</string>
+
+    <!-- Login Activity -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <!-- Profile Activity -->
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Main Activity -->
+    <string name="home">Home</string>
+    <string name="weather">Weather</string>
+    <string name="todo_list">Todo List</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
+    <string name="today_tasks">Today\'s Tasks</string>
+    <string name="weather_info">Weather Information</string>
+
+    <!-- Todo Activity -->
+    <string name="add_task">Add Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="task_added">Task added successfully</string>
+    <string name="task_updated">Task updated successfully</string>
+    <string name="task_deleted">Task deleted successfully</string>
+
+    <!-- Weather -->
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+
+    <!-- Notifications -->
+    <string name="weather_notification_title">Weather Update</string>
+    <string name="weather_notification_text">Check today\'s weather forecast</string>
+    <string name="todo_notification_title">Task Reminder</string>
+    <string name="todo_notification_text">You have pending tasks to complete</string>
+
+    <!-- Error Messages -->
+    <string name="error_email">Please enter a valid email</string>
+    <string name="error_password">Password must be at least 6 characters</string>
+    <string name="error_fields">Please fill all fields</string>
+    <string name="error_login">Login failed. Please check your credentials</string>
+    <string name="error_register">Registration failed. Please try again</string>
+    <string name="error_network">Network error. Please check your connection</string>
+</resources>
